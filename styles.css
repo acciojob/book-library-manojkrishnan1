@@ -19,9 +19,11 @@ body{
 	border-radius: 5px;
 	border:0;
 	color: white;
+	text-align:center;
 }
 .book{
 	width:90%;
+/* 	background-color: rgb(119, 119, 119); */
 	display:flex;
 	flex-direction:column;
 }
